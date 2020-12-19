@@ -3,6 +3,10 @@
 <head>
 	<title>BLOODBANK MANAGEMENT SYSTEM</title>
 	<link rel="stylesheet" type="text/css" href="style1.css"/>
+	<meta name="viewport" content="width-device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="name" content="Flowers">
+	<meta name="robots" content="noindex, nofollow">
+	
 	<script type="text/javascript">
     function validate()
     {
