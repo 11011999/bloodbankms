@@ -8,6 +8,10 @@
 <title>Blood Bank System</title>
 <link rel="stylesheet" type="text/css" href="style.css"/>
 <div class="topnav">
+ <meta name="viewport" content="width-device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="name" content="bloodbankms">
+	<meta name="robots" content="noindex, nofollow">
+	
  <a class="active " href="Home.php">Home</a>
  <a class="active" href="hospital.php">Add Hospital</a>
  <a class="active " href="reg.php">Register</a>
